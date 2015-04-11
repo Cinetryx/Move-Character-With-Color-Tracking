@@ -1,3 +1,7 @@
+//The color tracking code comes from here: http://www.learningprocessing.com/examples/chapter-16/example-16-11/
+//This project just combines it with a character
+
+
 import processing.video.*;
 
 // Variable for capture device
